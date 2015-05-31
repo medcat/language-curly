@@ -1,0 +1,12 @@
+{
+  "name": "language-curly",
+  "version": "0.0.0",
+  "description": "The Curly templating language grammar",
+  "keywords": [
+  ],
+  "repository": "https://github.com/medcat/language-curly",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  }
+}
